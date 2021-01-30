@@ -10,9 +10,8 @@ None of these files are tracked by git.
 Use `git add` to add these files to staging. Can add single or multiple files with `git add file1.txt file2.txt`, all the files of type with `git add *.txt` or all the files with `git add .` 
 Use `git commit` to move these files to an official version in the HEAD. The HEAD is the most recent version of your code.  
 Use `git push` to move these files to github.
-
+___
 Use `git pull` to get all of the changes from the repo to your computer
-
 Use `git status` to see the status of the working directory in the staging area. Use `git status -s` for short status.
 Use `git diff` to see differences not added to index/staging
 *View help with `git --help`*

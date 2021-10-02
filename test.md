@@ -2,6 +2,6 @@
 ### This is change 2
   I'm adding a bunch of text for a rebase.
 
-This is change 3 and this is change 4
-Test branch 2
+This is change three and this is change four
+Test branch two
 
